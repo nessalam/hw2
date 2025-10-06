@@ -135,6 +135,7 @@ int main(int argc, char* argv[])
         }
 
     }
+    //valgrind errors
     //delete productSectionParser;
     //delete userSectionParser;
 
